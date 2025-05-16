@@ -11,7 +11,7 @@
 
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F7DF1E?logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/-openjdk-F7DF1E?logo=java&logoColor=black)
 
 
 #### Tools & Platforms
