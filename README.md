@@ -1,7 +1,7 @@
 # Hi there 👋 I'm mazp
 
 🎯 Focus on [java，web安全]  
-🌱 Currently learning [pythob]  
+🌱 Currently learning [python]  
 💡 Passionate about [IAST安全工具开发]  
 📫 How to reach me: ma@mazepeng.com
 
@@ -11,7 +11,7 @@
 
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F7DF1E?logo=Java&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-F7DF1E?logo=java&logoColor=black)
 
 
 #### Tools & Platforms
